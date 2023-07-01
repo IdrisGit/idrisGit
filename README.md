@@ -7,7 +7,7 @@
 </div>
 </div>
 
-<h1>Hi 👋, I'm Idris</h1>
+<h1 align="center">Hi 👋, I'm Idris</h1>
 <h3 align="center">Web Developer | ReactJS Specialist | Embracing Diverse Roles in Development </h3>
 
 <div align="center">
