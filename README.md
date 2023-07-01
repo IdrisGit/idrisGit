@@ -24,7 +24,7 @@ I am a Full Stack Developer :computer: from India
 - :seedling: I’m currently Exploring **Typescript, Nodejs, React.js, React Native, Astro, Express** .
 - :zap: In my free time, I passionately dive into technology, exploring advancements, experimenting, and devouring insightful blog posts on freeCodeCamp.
 - :rocket: I'm excited to venture into the world of open source, contribute to projects, and leverage this opportunity to learn, collaborate, and grow as a developer.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Idris%20Gadi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/idris-gadi)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Idris%20Gadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idris-gadi)
 
 ---
 
