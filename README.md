@@ -21,8 +21,8 @@
 I am a Frontend Web Developer :computer:
 
 - :telescope: I’m working as a Frontend Web Developer building awsome web applications and websites.
-- :books: **Typescript, Nodejs, React.js, React Native, Astro, Express** .
-- :zap: In my free time, I like to dive into technology, exploring advancements, experimenting with various technologies and tools, I also like devouring amazing blog posts on freeCodeCamp and, Reading Books.
+- :books: **Typescript, React.js, Nodejs, React Native, Astro, Express** .
+- :zap: In my free time, I like to dive into technology exploring advancements and experimenting with various technologies and tools, I like to read and learn from the amazing blog posts on freeCodeCamp (etc.), and Reading Books.
 - :rocket: I'm excited to venture into the world of open source, contribute to projects, and leverage this opportunity to learn, collaborate, and grow as a developer.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Idris%20Gadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idris-gadi)
 
