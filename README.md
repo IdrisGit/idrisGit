@@ -20,16 +20,18 @@
 
 I am a Frontend Web Developer :computer:
 
-- :telescope: I’m working as a Frontend Web Developer and contributing to frontend and backend for building web applications.
-- :books: Current Stack **Typescript, Nodejs, React.js, React Native, Astro, Express** .
-- :zap: In my free time, I passionately dive into technology, exploring advancements, experimenting, and devouring insightful blog posts on freeCodeCamp.
+- :telescope: I’m working as a Frontend Web Developer building awsome web applications and websites.
+- :books: **Typescript, Nodejs, React.js, React Native, Astro, Express** .
+- :zap: In my free time, I like to dive into technology, exploring advancements, experimenting with various technologies and tools, I also like devouring amazing blog posts on freeCodeCamp and, Reading Books.
 - :rocket: I'm excited to venture into the world of open source, contribute to projects, and leverage this opportunity to learn, collaborate, and grow as a developer.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Idris%20Gadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idris-gadi)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
+
 #### :bookmark_tabs: Languages:
+
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -41,6 +43,7 @@ I am a Frontend Web Developer :computer:
 </p>
 
 #### :toolbox: Frameworks and Tools
+
 <p align="left">  
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg" alt="svelte" width="50" height="50"/> </a>
