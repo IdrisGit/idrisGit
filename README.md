@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Idris</h1>
-<h3 align="center">Web Developer | Javascript | Typescript | React | Nodejs | Embracing Diverse Roles in Development </h3>
+<h3 align="center">Web Developer | Javascript | Typescript | React | Nodejs</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="300" alt='About Me' />
