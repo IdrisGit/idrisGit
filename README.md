@@ -1,29 +1,16 @@
-<div  id="header" align="center">
-  <img src='https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif' width="100" alt='Header Image' />
-  <div id="badges">
-  <a href='https://www.linkedin.com/in/idris-gadi/'>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-</div>
-
-<h1 align="center">Hi 👋, I'm Idris</h1>
-<h3 align="center">Web Developer | Javascript | Typescript | React | Nodejs</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="300" alt='About Me' />
-</div>
+# Hi 👋, I am Idris
+#### Web Developer | Javascript | Typescript | React | NextJS | Nodejs
 
 ---
 
-### :man_technologist: About Me
+## :man_technologist: About Me
 
-I am a Frontend Web Developer :computer:
+### I am a Frontend Web Developer
 
-- :telescope: I’m working as a Frontend Web Developer building awsome web applications and websites.
-- :books: **Typescript, React.js, Nodejs, React Native, Astro, Express** .
-- :zap: In my free time, I like to dive into technology exploring advancements and experimenting with various technologies and tools, I like to read and learn from the amazing blog posts on freeCodeCamp (etc.), and Reading Books.
-- :rocket: I'm excited to venture into the world of open source, contribute to projects, and leverage this opportunity to learn, collaborate, and grow as a developer.
+- :telescope: Building awsome web applications and websites.
+- :books: Typescript, React.js, NextJS, Nodejs.
+- :zap: I like to dive into exploring advancements and experimenting with various technologies and tools.
+- :rocket: Excited to venture into the world of open source, contribute to projects, and leverage this opportunity to learn, collaborate, and grow as a developer.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Idris%20Gadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idris-gadi)
 
 ---
