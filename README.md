@@ -5,13 +5,14 @@
 
 ## :man_technologist: About Me
 
-### I am a Frontend Web Developer
+### I am a Web Developer
 
 - :telescope: Building awsome web applications and websites.
 - :books: Typescript, React.js, NextJS, Nodejs.
 - :zap: I like to dive into exploring advancements and experimenting with various technologies and tools.
 - :rocket: Excited to venture into the world of open source, contribute to projects, and leverage this opportunity to learn, collaborate, and grow as a developer.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Idris%20Gadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idris-gadi)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Idris%20Gadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idris-gadi) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Idris%20Gadi)](https://x.com/idrisGadiX)
+
 
 ---
 
