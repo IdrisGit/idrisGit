@@ -1,18 +1,16 @@
 # Hi 👋, I am Idris
-#### Web Developer | Javascript | Typescript | React | NextJS | Nodejs
+#### Web Developer | Javascript | Typescript | React | Nodejs
 
-<br >
-
-## :man_technologist: About Me
-
-### I am a Web Developer
-
-- :telescope: Building awsome web applications and websites.
-- :books: Typescript, React.js, NextJS, Nodejs.
-- :zap: I like to dive into exploring advancements and experimenting with various technologies and tools.
-- :rocket: Excited to venture into the world of open source, contribute to projects, and leverage this opportunity to learn, collaborate, and grow as a developer.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Idris%20Gadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idris-gadi) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/idrisGadiX)
-](https://x.com/idrisGadiX)
+- I love building web apps and websites to create awesome web experiences.
+- Currently working as a Frontend developer.
+- I like learning new tools, methods, UI/UX concepts and ideas, and keeping up with the latest stuff in the industry to improve my craft.
+- I like to read books and blogs/articles on various topics.
+- I am also looking to venture into the world of Open Source, contribute to various projects, learn, collaborate, be part of open source community,and grow as a developer.
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoSize=auto&color=030637)](https://www.linkedin.com/in/idris-gadi/)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-black?style=for-the-badge&logo=x&logoSize=auto&color=030637)](https://x.com/igadii_X)
+[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoSize=auto&logoColor=white&color=030637)](https://discord.gg/users/igadii)
+[![Dev Community](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto&logoSize=auto&color=030637)](https://dev.to/igadii)
 
 
 ---
@@ -21,33 +19,32 @@
 
 #### :bookmark_tabs: Languages:
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-</p>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoSize=auto&color=030637" alt="html5"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue&&logoSize=auto&color=030637" alt="css3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoSize=auto&color=030637" alt="javascript"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoSize=auto&color=030637" alt="typescript"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoSize=auto&color=030637" alt="nodejs"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoSize=auto&color=030637" alt="python"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto&color=030637" alt="bash"/></a>
+
 
 #### :toolbox: Frameworks and Tools
 
-<p align="left">  
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg" alt="svelte" width="50" height="50"/> </a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="./readme_assests/astro.png" alt="astro" width="40" height="40"/> </a>  
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoSize=auto&color=030637" alt="react"/></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto&color=030637" alt="astro"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoSize=auto&color=030637" alt="express"/></a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoSize=auto&color=030637" alt="git"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoSize=auto&color=030637" alt="github"/></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab&logoSize=auto&color=030637" alt="github"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoSize=auto&color=030637" alt="postman"/></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto&color=030637" alt="vite"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white&logoSize=auto&color=030637" alt="linux"/></a>  
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoSize=auto&color=030637" alt="mongodb"/></a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=030637" alt="postgresql"/></a>
 
 ---
 
 ### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrisgit&show_icons=true&locale=en&layout=compact" alt="idrisgit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrisgit&show_icons=true&locale=en&layout=compact&theme=transparent" alt="idrisgit" /></p>
