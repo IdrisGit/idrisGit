@@ -1,11 +1,12 @@
 # Hi 👋, I am Idris
 #### Web Developer | Javascript | Typescript | React | Nodejs
 
-- I love building web apps and websites to create awesome web experiences.
-- Currently working as a Frontend developer.
-- I like learning new tools, methods, UI/UX concepts and ideas, and keeping up with the latest stuff in the industry to improve my craft.
-- I like to read books and blogs/articles on various topics.
-- I am also looking to venture into the world of Open Source, contribute to various projects, learn, collaborate, be part of open source community,and grow as a developer.
+- Currently working as a FullStack Developer.
+- I love building awesome web experiences.
+- I enjoy learning new tools, methods, concepts, and trying out different ideas.
+- I enjoy reading books and blogs/articles on a wide range of topics.
+- I am also looking to venture into the world of Open Source.  
+
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoSize=auto&color=030637)](https://www.linkedin.com/in/idris-gadi/)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-black?style=for-the-badge&logo=x&logoSize=auto&color=030637)](https://x.com/igadii_X)
