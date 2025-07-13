@@ -7,13 +7,6 @@
 - I enjoy reading books and blogs/articles on a wide range of topics.
 - I am also looking to venture into the world of Open Source.  
 
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoSize=auto&color=030637)](https://www.linkedin.com/in/idris-gadi/)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-black?style=for-the-badge&logo=x&logoSize=auto&color=030637)](https://x.com/igadii_X)
-[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoSize=auto&logoColor=white&color=030637)](https://discord.gg/users/igadii)
-[![Dev Community](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto&logoSize=auto&color=030637)](https://dev.to/igadii)
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
