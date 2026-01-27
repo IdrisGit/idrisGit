@@ -14,7 +14,6 @@
 #### Languages
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoSize=auto&color=030637" alt="typescript"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoSize=auto&color=030637" alt="python"/></a>
 
 #### Frontend Development
 
@@ -62,4 +61,3 @@
 - Website: [igadii.dev](https://igadii.dev)
 - 𝕏/Twitter: [@igadii_X](https://twitter.com/igadii_X)
 - Peerlist: [@igadii](https://peerlist.io/igadii)
-- LinkedIn: [idris-gadi](https://linkedin.com/in/idris-gadi)
