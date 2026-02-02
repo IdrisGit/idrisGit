@@ -1,11 +1,12 @@
 # Hi 👋, I am Idris
 
-#### Web Developer | Typescript | Nodejs | Bun
+#### Web Developer | TypeScript | Node.js | Bun
 
-- Currently working as a FullStack Developer, focused on building meaningful web experiences.
-- I love exploring new tools, methods, and concepts, and sharing what I learn with others.
-- I enjoy reading books and blogs/articles on a wide range of topics.
-- I am also looking to venture into the world of Open Source and collaborate on exciting projects.
+- Full-stack developer building things that actually solve problems
+- Mess around with new tech for fun, figure out what's actually useful
+- Read docs, blogs, articles and whatever else looks interesting
+- 3+ years building web apps with great teams and collaborators
+- Enjoy working with open source tools and giving back when I can
 
 ---
 
@@ -55,9 +56,9 @@
 
 ### 🤝 Open To
 
-- Collaborating on interesting open source projects
-- FullStack development opportunities
-- Learning and sharing knowledge
+- Open source projects that could use an extra hand
+- Interesting full-stack work, big or small
+- Learning from others and sharing what I know
 
 ### 📬 Contact
 
