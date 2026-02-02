@@ -40,7 +40,7 @@
 
 <p>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=postgresql,awss3,mongodb" />
+    <img src="https://skills.syvixor.com/api/icons?i=postgresql,amazons3,mongodb" />
   </a>
 </p>
 
