@@ -48,7 +48,7 @@
 
 <p>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=git,github,gitlab,linux,bash,aws,azure,coolify" />
+    <img src="https://skills.syvixor.com/api/icons?i=git,github,gitlab,linux,bash,aws,azure,coolify,opencode" />
   </a>
 </p>
 
