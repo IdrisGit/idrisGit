@@ -53,5 +53,3 @@
 - Open source projects that could use an extra hand
 - Interesting fullstack work
 - Learning from others and sharing what I know
-
-[igadii.dev](https://igadii.dev) | [𝕏 (Twitter)](https://twitter.com/igadii_X) | [Peerlist](https://peerlist.io/igadii)  
