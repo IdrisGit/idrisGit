@@ -1,6 +1,6 @@
 # Hi 👋, I am Idris
 
-#### FullStack Developer • TypeScript • Node.js • Bun
+#### FullStack Developer | TypeScript | Node.js | Bun
 
 - Focused on building solutions that solves real problems
 - 3+ years building web apps with great teams and collaborators
@@ -54,4 +54,4 @@
 - Interesting fullstack work
 - Learning from others and sharing what I know
 
-[igadii.dev](https://igadii.dev) • [𝕏 (Twitter)](https://twitter.com/igadii_X) • [Peerlist](https://peerlist.io/igadii)
+[igadii.dev](https://igadii.dev) | [𝕏 (Twitter)](https://twitter.com/igadii_X) | [Peerlist](https://peerlist.io/igadii)  
