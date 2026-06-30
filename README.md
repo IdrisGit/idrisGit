@@ -1,52 +1,10 @@
 # Hi 👋, I am Idris
 
-#### FullStack Developer | TypeScript | Node.js | Bun
+#### Full-Stack Developer | Building, Learning, and Figuring things out
 
-- Focused on building solutions that solves real problems
-- 3+ years building web apps with great teams and collaborators
-- Enjoy reading docs, blogs, articles, books, and source code to learn and understand how things actually work
-- Interested in improving software architecture and contributing more to open source
+I enjoy untangling systems. Whether it's architecture, performance, or developer experience, I am happiest working on the problems that quietly make software and the experience of building it — a little better.  
 
-## Tech Stack
-
-#### Languages & Runtimes
-<p>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=ts,nodejs,bun" />
-  </a>
-</p>
-
-#### Frontend Development
-
-<p>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=html,css,react,vue,astro,vite" />
-  </a>
-</p>
-
-#### Backend Development
-
-<p>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=express,elysia,fastify,nestjs" />
-  </a>
-</p>
-
-#### Database & Storage
-
-<p>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=postgresql,amazons3,mongodb" />
-  </a>
-</p>
-
-#### DevOps & Tools
-
-<p>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=git,github,gitlab,linux,bash,aws,azure,coolify,opencode" />
-  </a>
-</p>
+Contributing to Open Source whenever I can, enjoy talking to people on different topics. You can find me pretty active on X/Twitter.
 
 ## Open To
 
