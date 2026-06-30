@@ -50,6 +50,6 @@
 
 ## Open To
 
-- Open source projects that could use an extra hand
-- Interesting fullstack work
-- Learning from others and sharing what I know
+- Open source projects that could use an extra pair of hands.
+- Interesting fullstack work; freelance or full-time.
+- People to learn from, and ideas worth sharing back.
