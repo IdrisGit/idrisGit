@@ -13,7 +13,6 @@ Contributing to Open Source whenever I can, enjoy talking to people on different
 - People to learn from, and ideas worth sharing back.
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <div align="center">
   <a href="https://commit-history.com/IdrisGit">
