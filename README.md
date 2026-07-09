@@ -11,3 +11,15 @@ Contributing to Open Source whenever I can, enjoy talking to people on different
 - Open source projects that could use an extra pair of hands.
 - Interesting fullstack work; freelance or full-time.
 - People to learn from, and ideas worth sharing back.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<div align="center">
+  <a href="https://commit-history.com/IdrisGit">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/IdrisGit?theme=dark" />
+      <img alt="Idris Gadi's commit history" src="https://commit-history.com/embed/YOUR_USERNAME" />
+    </picture>
+  </a>
+</div>
