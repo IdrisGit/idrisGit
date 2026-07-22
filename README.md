@@ -18,7 +18,7 @@ Contributing to Open Source whenever I can, enjoy talking to people on different
   <a href="https://commit-history.com/IdrisGit">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/IdrisGit?theme=dark" />
-      <img alt="Idris Gadi's commit history" src="https://commit-history.com/embed/YOUR_USERNAME" />
+      <img alt="Idris Gadi's commit history" src="https://commit-history.com/embed/IdrisGit" />
     </picture>
   </a>
 </div>
